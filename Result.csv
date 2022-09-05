@@ -1,0 +1,2 @@
+Model , Execution time without multiprocessing , Execution time with multiprocessing
+SARIMAX , 2 min 8 sec , 4.35 sec
